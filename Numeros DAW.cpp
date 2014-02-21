@@ -37,7 +37,7 @@ int x,cont=1,resto,total=1;
                         // al haberle devuelto un cero, total valdría cero.
                 return valor;//
             }else{
-
+                //printf("No es un numero DAW!");
                 return total;// devolvemos total, que lo necesitaremos en la función main.
                 }
 }
